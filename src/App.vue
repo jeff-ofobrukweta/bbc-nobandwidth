@@ -66,7 +66,7 @@
           </div>
           <div class="fotter-text">
             <p class="paragraph p6">
-              <span class="item-contain-param">{{ hive.p6 }}</span>
+              <span class="item-contain-param"><h2>{{ hive.p6 }}</h2></span>
               <span class="help-cont">
                 <Help
                   :titleText="`How you came about.. i.e.Methodology for calculation`"

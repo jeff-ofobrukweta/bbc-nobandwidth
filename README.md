@@ -6,25 +6,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.bbc.co.uk/news/world/asia/india">
     <img src="./images/bbc.logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BBC LOWBANDWIDTH</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <br />
-    <a href="#">View Demo</a>
-  </p>
 </p>
 
 

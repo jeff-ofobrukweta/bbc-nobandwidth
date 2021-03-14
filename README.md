@@ -7,15 +7,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://www.bbc.co.uk/news/world/asia/india">
     <img src="./images/bbc.logo.svg" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">BBC LOWBANDWIDTH</h3>
 </p>
 
@@ -176,7 +173,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 To Get the Flat run command below:
-### Bilding dist folder for deployment
+### Building dist folder for deployment
  production build 
    ```sh
    npm run build

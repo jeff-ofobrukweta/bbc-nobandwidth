@@ -2,6 +2,8 @@
 import LandingContent from "../../index";
 import { shallowMount } from "@vue/test-utils";
 
+
+
 describe("TESTING THE LANDING VIEW", () => {
   const data = {
     articleUrl: "http://www.bbc.co.uk/news/world/asia/india",

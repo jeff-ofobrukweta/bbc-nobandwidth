@@ -1,0 +1,58 @@
+.card-wrapper {
+  width: 100%;
+  display: inline-block;
+  margin-top: 1rem;
+  text-align: left;
+  padding: 2rem 2rem 0.5rem 2rem;
+  margin-bottom: 30px;
+  position: relative;
+  background: var(--bbc-white);
+  border-radius: 4px;
+  box-shadow:var(--bbc-box-shadow);
+}
+.inner_left_section {
+  width: 100%;
+}
+.tag {
+  display: flex;
+  justify-content: flex-end;
+}
+.tag span {
+  color: var(--purple);
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.cigg-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cigg-group .image {
+  width: 12px;
+  height: 2rem;
+}
+.card__inner_catalog_top {
+  padding-bottom: 1.5rem;
+  display: flex;
+}
+
+.title_card {
+  color: #303030;
+  line-height: 1;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+}
+.sub_title_header {
+  color: rgba(0, 0, 0, 0.25);
+  font-weight: normal;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  font-size: 0.8125rem;
+  text-transform: capitalize;
+  margin-top: 0;
+}

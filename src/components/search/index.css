@@ -1,0 +1,17 @@
+.search-bar {
+  width: inherit;
+  height: inherit;
+}
+
+.search-bar .input-component {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  padding: 1.65em 0em 1.6em 2.5em;
+  max-height: 1.2rem;
+  filter: grayscale(1);
+  background: 15px 15px url(../../assets/icons/icon_search.svg) no-repeat;
+  border: solid 2px var(--bbc-ash);
+  background-position: 0px;
+  font-size: 14px;
+}

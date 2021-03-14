@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  text-decoration-line: none;
+  color: var(--bbc-summary-text-color);
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+p {
+  font-size: 15px;
+}
+

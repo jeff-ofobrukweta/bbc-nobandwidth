@@ -1,0 +1,19 @@
+/* btn style for language toogle */
+
+.btn-lang{
+  padding: 10px;
+  margin:5px;
+  cursor: pointer;
+  background-color: transparent;
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 8%), 0 1px 4px rgb(0 0 0 / 12%);
+}
+
+.flag-contain{
+  min-width:11px;
+  min-height: 11px;
+  width:11px;
+  height: 11px;
+  margin-right: 16px;
+}
